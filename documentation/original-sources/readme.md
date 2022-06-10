@@ -35,11 +35,25 @@ We strong suggest all future users to use SIL Open Font License to use this font
 When the official “Tung-Kai” is released, please use the official released font.  
 待未來「通·楷」正式發佈時，請使用該正式發佈字型。
 
+## 显名声明 Attribution 顯名聲明
+
+提供机关：夜煞之乐2001（2022 年）使用开放资料[「全字库正楷体」](https://data.gov.tw/dataset/5961)（民国 110 年 7 月 5 日/ 2021 年 7 月 5 日版，[版本副本](https://web.archive.org/web/20210802143427/https://www.cns11643.gov.tw/AIDB/Open_Data.zip)）。  
+Data Providing Organization: NightFurySL2001 (year 2022) using Open Data [TW-Kai](https://data.gov.tw/dataset/5961) (version 5 July 2021, [version copy](https://web.archive.org/web/20210802143427/https://www.cns11643.gov.tw/AIDB/Open_Data.zip)).  
+提供機關：夜煞之樂2001（2022 年）使用開放資料[「全字庫正楷體」](https://data.gov.tw/dataset/5961)（民國 110 年 7 月 5 日/ 2021 年 7 月 5 日版，[版本副本](https://web.archive.org/web/20210802143427/https://www.cns11643.gov.tw/AIDB/Open_Data.zip)）。
+
+此开放资料依政府资料开放授权条款（Open Government Data License）进行公众释出，用户于遵守本条款各项规定之前提下，得利用之。  
+The Open Data is made available to the public under the Open Government Data License, User can make use of it when complying to the condition and obligation of its terms.  
+此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。
+
+政府资料开放授权条款：https://data.gov.tw/license  
+Open Government Data License: https://data.gov.tw/license  
+政府資料開放授權條款：https://data.gov.tw/license
+
 ## 致谢 Recognition 致謝
 
-特此感谢台湾国家发展委员会之「CNS11643 中文标准交换码全字库」（简称全字库）所公开提供的「全字库正楷体」、「全字库正楷体 Ext-B」及「TW-Kai-Plus」使本字型计划得以开始进行。  
-Special thanks are given to “Master Ideographs Seeker for CNS 11643 Chinese Standard Interchange Code” (abbreviated as Master Ideographs Seeker) by the Prceding Electronic Data Processing Center Directorate, General of Budget, Accounting and Statistics, Executive Yuan, Republic of China for releasing “TW-Kai”, “TW-Kai-Ext-B” and “TW-Kai-Plus” which has made this font project possible.  
-特此感謝台灣國家發展委員會之「CNS11643中文標準交換碼全字庫」（簡稱全字庫）所公開提供的「全字庫正楷體」、「全字庫正楷體 Ext-B」及「TW-Kai-Plus」使本字型計劃得以開始進行。
+特此感谢台湾国家发展委员会之[「CNS11643 中文标准交换码全字库」](https://www.cns11643.gov.tw/)（简称全字库）所公开提供的「全字库正楷体」、「全字库正楷体 Ext-B」及「TW-Kai-Plus」使本字型计划得以开始进行。  
+Special thanks are given to [“Master Ideographs Seeker for CNS 11643 Chinese Standard Interchange Code”](https://www.cns11643.gov.tw/) (abbreviated as Master Ideographs Seeker) by the Prceding Electronic Data Processing Center Directorate, General of Budget, Accounting and Statistics, Executive Yuan, Republic of China for releasing “TW-Kai”, “TW-Kai-Ext-B” and “TW-Kai-Plus” which has made this font project possible.  
+特此感謝台灣國家發展委員會之[「CNS11643中文標準交換碼全字庫」](https://www.cns11643.gov.tw/)（簡稱全字庫）所公開提供的「全字庫正楷體」、「全字庫正楷體 Ext-B」及「TW-Kai-Plus」使本字型計劃得以開始進行。
 
 ## 主要汉字范围 Main *hanzi* coverage 主要漢字範圍
 
