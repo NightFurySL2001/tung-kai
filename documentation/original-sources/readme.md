@@ -18,11 +18,11 @@ The contents in this repository are released under two licenses. Users may only 
 
 1. [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)  
   本字型在「政府资料开放授权条款—第 1 版」授权下修改，以同等的「创用 CC 授权　署名 4.0 国际版本」授权发布。  
-  The font is modified under Open Government Data License, version 1.0, and released under the equivalent license of Creative Commons Attribution 4.0 International.
+  The font is modified under Open Government Data License, version 1.0, and released under the equivalent license of Creative Commons Attribution 4.0 International.  
   本字型在「政府資料開放授權條款—第 1 版」授權下修改，以同等的「創用 CC 授權　姓名標示 4.0 國際版本」授權發佈。
 2. [**SIL OFL v1.1**](https://scripts.sil.org/ofl)  
   本字型在「政府资料开放授权条款—第 1 版」授权下修改，经全字库书面同意，改以「SIL 开源字型授权 1.1版」授权发布。  
-  The font is modified under Open Government Data License, version 1.0, and released under SIL Open Font License 1.1 with written approvement letter from CNS 11643.
+  The font is modified under Open Government Data License, version 1.0, and released under SIL Open Font License 1.1 with written approvement letter from CNS 11643.  
   本字型在「政府資料開放授權條款—第 1 版」授權下修改，經全字庫書面同意，改以「SIL 開源字型授權 1.1版」授權發佈。
 
 强烈建议所有后续用户使用 SIL 开源字型授权来使用本字型以简化使用方式（可避免在最终的用户成品如书籍/海报/文案等署名原字型；但**衍生字型仍旧需要依据本仓库的授权署名原字型**）。  
@@ -55,6 +55,29 @@ Open Government Data License: https://data.gov.tw/license
 Special thanks are given to [“Master Ideographs Seeker for CNS 11643 Chinese Standard Interchange Code”](https://www.cns11643.gov.tw/) (abbreviated as Master Ideographs Seeker) by the Prceding Electronic Data Processing Center Directorate, General of Budget, Accounting and Statistics, Executive Yuan, Republic of China for releasing “TW-Kai”, “TW-Kai-Ext-B” and “TW-Kai-Plus” which has made this font project possible.  
 特此感謝台灣國家發展委員會之[「CNS11643中文標準交換碼全字庫」](https://www.cns11643.gov.tw/)（簡稱全字庫）所公開提供的「全字庫正楷體」、「全字庫正楷體 Ext-B」及「TW-Kai-Plus」使本字型計劃得以開始進行。
 
+## 修改更动 Modifications 修改更動
+
+相对于「全字库正楷体」及「全字库正楷体 Ext-B」，「台教·楷」及「台教·扩」对该两字型做出了以下调整：  
+
+1. **调整字面 Modifying ideographs size 調整字面**  
+  「台教·楷」的所有基本汉字及扩展 A 区汉字已经经过人工调整，尽量让全部汉字大小保持均衡。  
+  Taiwan Ciao·Kai has all ideographs in Basic block and Extension A adjusted by hand, trying to match the size of all ideographs.  
+  「臺敎·楷」的所有基本漢字及擴展 A 區漢字已經經過人工調整，儘量讓全部漢字大小保持均衡。
+
+2. **新增汉字 New ideographs 新增漢字**  
+  「台教·楷」根据 Unicode 14.0 补全所有基本汉字、扩展 A 区汉字、兼容汉字区的 12 个统一汉字，「台教·扩」根据 Unicode 14.0 补全扩展 B 区至 D 区及兼容汉字扩展区。  
+  Taiwan Ciao·Kai has filled up all ideographs in Basic block, Extension A and 12 unified ideographs in Ideographs Compatilibility, Taiwan Ciao·Kai Ext has filled up all ideographs from Extension B to D and Ideographs Compatibility Supplement.  
+  「臺敎·楷」根據 Unicode 14.0 補全所有基本漢字、擴展 A 區漢字、相容漢字區的 12 個統一漢字，「臺敎·擴」根據 Unicode 14.0 補全擴展 B 區至 D 區及相容漢字擴展區。
+
+  另有新增部分汉字和笔画，可见下节。  
+  There are more new ideographs and strokes added which is cited in the next section.  
+  另有新增部分漢字和筆劃，可見下節。
+
+3. **修改汉字 Fix ideographs 修改漢字**  
+  部分「全字库正楷体」的汉字因为 Unicode 版本更新脱离最新版本而变成“错误”汉字；另外一部分汉字字形为全字库特有的字形并且不常见。「台教·楷」已经修复了部分 Unicode IRG 工作组所发布的汉字更改，而全字库特有字形留待正式「通·楷」字型修改。  
+  Some ideographs in TW-Kai has been detached from the latest Unicode version and displayed as “wrong” ideographs; some others are orthographs that only exist in TW-Kai and are not commonly seen. Taiwan Ciao·Kai has fixed some ideograph changes released by the Unicode IRG Working Group, while unique TW-Kai glyphs will be fixed in the official Tung-Kai font.  
+  部分「全字庫正楷體」的漢字因為 Unicode 版本更新脫離最新版本而變成“錯誤”漢字；另外一部分漢字字形為全字庫特有的字形並且不常見。「臺敎·楷」已經修復了部分 Unicode IRG 工作組所發佈的漢字更改，而全字形檔特有字形留待正式「通·楷」字型修改。
+
 ## 主要汉字范围 Main *hanzi* coverage 主要漢字範圍
 
 详细内容请见 [new-glyphs.md](new-glyphs.md)。  
@@ -63,9 +86,9 @@ For more details please see [new-glyphs.md](new-glyphs.md).
 
 ### 台教·楷 Taiwan Ciao·Kai 臺敎·楷
 
-完整覆盖基本区、扩展 A 区、兼容区统一汉字（12个）、康熙部首及汉字部首补充。  
-Completely covered URO, Extension A, Unified Ideographs in Compatibility, Kangxi Radicals and Radicals Supplement.  
-完整覆蓋基本區、擴展 A 區、相容區統一漢字（12個）、康熙部首及漢字部首補充。  
+完整覆盖基本区、扩展 A 区、兼容汉字区统一汉字（12个）、康熙部首及汉字部首补充。  
+Completely covered URO, Extension A, 12 unified ideographs in Ideographs Compatibility, Kangxi Radicals and Radicals Supplement.  
+完整覆蓋基本區、擴展 A 區、相容漢字區統一漢字（12個）、康熙部首及漢字部首補充。  
 
 | 区段 Block 區段                                                                                        | 汉字数量 Count 漢字數量 |
 |--------------------------------------------------------------------------------------------------------|------------------------:|
@@ -78,9 +101,9 @@ Completely covered URO, Extension A, Unified Ideographs in Compatibility, Kangxi
 
 ### 台教·扩 Taiwan Ciao·Kai EXT 臺敎·擴
 
-完整覆盖扩展 B-D 区及兼容补充区。剩余汉字来源为 Unicode 台湾源（T-source）可重新映射字、部分缺少笔画、通用规范汉字表、香港增补字符集、[思源黑体](https://github.com/adobe-fonts/source-han-sans)及[字统网](https://zi.tools)部件表。  
-Completely covered Extension B to D and Compatibility Supplement. The rest of *hanzi* are from remappable Unicode T-source characters, missing stroke characters, *Table of General Standard Chinese Characters*, HKSCS, [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) and component list from [zi.tools](https://zi.tools).   
-完整覆蓋擴展 B-D 區及相容補充區。剩餘漢字來源爲 Unicode 臺灣源（T-source）可重新映射字、部分缺少筆畫、通用規範漢字表、香港增補字符集、[思源黑體](https://github.com/adobe-fonts/source-han-sans)及[字統網](https://zi.tools)部件表。
+完整覆盖扩展 B-D 区及兼容汉字补充区。剩余汉字来源为 Unicode 台湾源（T-source）可重新映射字、部分缺少笔画、通用规范汉字表、香港增补字符集、[思源黑体](https://github.com/adobe-fonts/source-han-sans)及[字统网](https://zi.tools)部件表。  
+Completely covered Extension B to D and Ideographs Compatibility Supplement. The rest of *hanzi* are from remappable Unicode T-source characters, missing stroke characters, *Table of General Standard Chinese Characters*, HKSCS, [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) and component list from [zi.tools](https://zi.tools).   
+完整覆蓋擴展 B-D 區及相容漢字補充區。剩餘漢字來源爲 Unicode 臺灣源（T-source）可重新映射字、部分缺少筆畫、通用規範漢字表、香港增補字符集、[思源黑體](https://github.com/adobe-fonts/source-han-sans)及[字統網](https://zi.tools)部件表。
 
 
 | 区段 Block 區段                                                                                        | 汉字数量 Count 漢字數量 |
